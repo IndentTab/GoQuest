@@ -1,6 +1,6 @@
 # GoQuest
 ```bash
-walmart-goquest/
+GoQuest/
 ├── backend/                  # Node.js + Express backend (hosted on Vercel)
 │   ├── api/
 │   │   ├── index.js          # Vercel entry point (api route)

@@ -15,7 +15,7 @@ const tokenCache = {
 export default function ClerkProviderWrapper() {
   return (
     <ClerkProvider
-      publishableKey="pk_test_bWVldC1tYWNhcXVlLTY3LmNsZXJrLmFjY291bnRzLmRldiQ"
+      publishableKey="Enter your key here"
       tokenCache={tokenCache}
     >
       <Slot />
